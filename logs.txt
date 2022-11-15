@@ -1,0 +1,245 @@
+2022-10-04 15:50:00.357146 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-04 15:50:50.109606 could not convert string to float: 'test'
+2022-10-04 15:50:55.318202 'NoneType' object has no attribute 'values'
+2022-10-04 15:50:55.327202 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-04 16:27:54.789466 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-04 16:27:54.798467 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-04 16:28:53.497164 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-04 16:28:53.512167 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-05 12:15:29.083237 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-05 12:15:29.115226 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 10:59:11.203062 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 10:59:11.264590 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 10:59:21.886813 :INSIDE EXCEPTION: could not convert string to float: 'L:23 W:90'
+2022-10-11 11:00:19.398876 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 11:00:19.406878 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 11:00:33.680983 :INSIDE EXCEPTION: list index out of range
+2022-10-11 11:02:00.337362 :INSIDE EXCEPTION: not enough values to unpack (expected 2, got 1)
+2022-10-11 11:02:07.622617 :INSIDE EXCEPTION: not enough values to unpack (expected 2, got 1)
+2022-10-11 11:02:33.236568 :INSIDE EXCEPTION: list index out of range
+2022-10-11 11:02:51.306257 :INSIDE EXCEPTION: list index out of range
+2022-10-11 11:03:03.989706 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 11:03:04.015727 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 11:05:56.293883 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 11:05:56.300888 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 11:06:19.146921 :INSIDE EXCEPTION: string index out of range
+2022-10-11 11:06:36.514516 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 11:06:36.530527 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 11:06:57.570260 :INSIDE EXCEPTION: list index out of range
+2022-10-11 11:09:48.884297 :INSIDE EXCEPTION: list index out of range
+2022-10-11 11:10:07.737829 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 11:10:07.744830 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 11:10:33.205023 :INSIDE EXCEPTION: list index out of range
+2022-10-11 11:10:46.519401 :INSIDE EXCEPTION: list index out of range
+2022-10-11 11:10:54.430893 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 11:10:54.442894 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 11:12:42.782585 :INSIDE EXCEPTION: list index out of range
+2022-10-11 11:12:55.456351 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 11:12:55.464352 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 11:13:20.709478 :INSIDE EXCEPTION: list index out of range
+2022-10-11 11:15:16.515223 :INSIDE EXCEPTION: list index out of range
+2022-10-11 11:15:24.851651 :INSIDE EXCEPTION: list index out of range
+2022-10-11 11:15:30.888466 :INSIDE EXCEPTION: list index out of range
+2022-10-11 11:15:37.938660 :INSIDE EXCEPTION: list index out of range
+2022-10-11 11:15:43.721561 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 11:15:43.729560 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 11:23:01.652636 :INSIDE EXCEPTION: '>=' not supported between instances of 'str' and 'int'
+2022-10-11 11:23:06.706051 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 11:23:06.714053 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 11:26:00.408138 :INSIDE EXCEPTION: invalid literal for int() with base 10: '0W'
+2022-10-11 11:26:36.424235 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 11:26:36.432237 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 11:30:29.439610 :INSIDE EXCEPTION: could not convert string to float: 'L:25 W:5'
+2022-10-11 11:31:51.011203 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 11:31:51.020210 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 11:41:42.554345 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 11:41:42.570353 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 11:43:26.214914 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 11:43:26.223921 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-11 15:34:53.603925 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-11 15:34:53.622925 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-17 11:20:54.491573 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 11:20:54.503555 invalid command name ".!toplevel.!frame7.!entry"
+2022-10-17 11:46:58.265524 __init__() got multiple values for argument 'default_value'
+2022-10-17 11:48:37.868873 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 11:48:37.880877 invalid command name ".!toplevel.!frame8.!entry"
+2022-10-17 11:48:54.266592 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 11:48:54.276599 invalid command name ".!toplevel.!frame8.!entry"
+2022-10-17 11:53:35.543633 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 11:53:35.557644 invalid command name ".!toplevel.!frame8.!entry"
+2022-10-17 11:54:40.947486 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 11:54:40.957486 invalid command name ".!toplevel.!frame8.!entry"
+2022-10-17 11:56:26.417506 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 11:56:26.426510 invalid command name ".!toplevel.!frame8.!entry"
+2022-10-17 12:01:21.332135 :INSIDE EXCEPTION: expected integer but got "23.5"
+2022-10-17 12:02:16.873408 :INSIDE EXCEPTION: could not convert string to float: 
+2022-10-17 12:04:58.839766 :INSIDE EXCEPTION: could not convert string to float: 
+2022-10-17 12:05:02.743587 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:05:02.755605 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:05:28.857750 :INSIDE EXCEPTION: could not convert string to float: 
+2022-10-17 12:05:56.291954 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:05:56.302968 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:06:47.424625 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:06:47.433630 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:07:14.336453 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:07:14.346462 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:08:23.989518 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:08:23.997524 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:09:04.055170 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:09:04.063174 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:10:35.845346 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:10:35.864372 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:11:02.425394 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:11:02.440110 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:12:38.662318 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:12:38.674325 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:14:01.794015 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:14:01.804015 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:14:27.984932 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:14:27.992945 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:14:49.679125 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:14:49.687126 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:15:58.212561 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:15:58.224578 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:16:32.194004 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:16:32.206005 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:22:52.647134 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:22:52.655135 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:23:30.236885 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:23:30.244891 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:24:07.660047 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:24:07.669049 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:25:44.609472 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:25:44.621453 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:29:13.434335 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:29:13.442340 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 12:31:56.319419 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 12:31:56.327419 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 13:10:01.729708 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 13:10:01.738710 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 13:33:15.898234 :INSIDE EXCEPTION: can't multiply sequence by non-int of type 'float'
+2022-10-17 13:34:34.501699 :INSIDE EXCEPTION: unsupported operand type(s) for *: 'float' and 'NoneType'
+2022-10-17 13:34:40.832711 :INSIDE EXCEPTION: unsupported operand type(s) for *: 'float' and 'NoneType'
+2022-10-17 13:34:41.731387 :INSIDE EXCEPTION: unsupported operand type(s) for *: 'float' and 'NoneType'
+2022-10-17 13:35:14.052784 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 13:35:14.060785 invalid command name ".!toplevel.!frame12.!entry"
+2022-10-17 13:36:04.345914 :INSIDE EXCEPTION: can't multiply sequence by non-int of type 'float'
+2022-10-17 13:38:40.859578 can't multiply sequence by non-int of type 'float'
+2022-10-17 13:43:08.403489 :INSIDE EXCEPTION: could not convert string to float: 
+2022-10-17 13:43:17.033180 :INSIDE EXCEPTION: could not convert string to float: 'W:23'
+2022-10-17 13:43:28.384518 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 13:43:28.394517 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 13:45:34.688388 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 13:45:34.697388 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 13:46:51.930340 :INSIDE EXCEPTION: could not convert string to float: 'W:23'
+2022-10-17 13:46:55.239553 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 13:46:55.245551 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 13:47:49.637962 :INSIDE EXCEPTION: could not convert string to float: 'W:34'
+2022-10-17 13:47:55.513174 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 13:47:55.520174 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 13:48:37.543650 :INSIDE EXCEPTION: could not convert string to float: 'W:23'
+2022-10-17 13:49:25.287899 :INSIDE EXCEPTION: update() got an unexpected keyword argument 'values'
+2022-10-17 13:49:51.807775 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 13:49:51.815777 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 13:50:29.742554 :INSIDE EXCEPTION: update() got an unexpected keyword argument 'values'
+2022-10-17 13:50:34.780374 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 13:50:34.791381 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 13:52:23.634866 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 13:52:23.641874 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 13:56:27.970825 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 13:56:27.979827 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 13:56:36.538714 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 13:56:36.546714 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 13:57:43.895413 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 13:57:43.903413 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 13:58:32.983940 :INSIDE EXCEPTION: update() got an unexpected keyword argument 'size'
+2022-10-17 13:58:56.833950 :INSIDE EXCEPTION: update() got an unexpected keyword argument 'size'
+2022-10-17 13:59:02.368888 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 13:59:02.378852 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:01:39.246974 :INSIDE EXCEPTION: could not convert string to float: 
+2022-10-17 14:01:57.754998 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:01:57.767998 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:37:44.907021 :INSIDE EXCEPTION: update() got an unexpected keyword argument 'size'
+2022-10-17 14:37:49.489627 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:37:49.514509 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:38:05.482049 :INSIDE EXCEPTION: update() got an unexpected keyword argument 'size'
+2022-10-17 14:38:07.691184 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:38:07.699184 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:38:39.031059 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:38:39.038059 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:39:19.449235 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:39:19.456236 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:39:30.816789 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:39:30.823788 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:39:40.281700 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:39:40.289701 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:49:06.092000 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:49:06.099016 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:49:37.642438 :INSIDE EXCEPTION: tuple index out of range
+2022-10-17 14:49:47.747667 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:49:47.758666 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:50:48.893689 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:50:48.901686 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:52:09.539567 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:52:09.546568 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:53:48.054448 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:53:48.063448 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:54:33.654406 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:54:33.664403 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:55:40.979999 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:55:40.989000 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:56:00.438340 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:56:00.447341 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:56:32.559126 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:56:32.568127 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:57:30.738013 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:57:30.747014 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 14:58:49.298576 :INSIDE EXCEPTION: could not convert string to float: 
+2022-10-17 14:58:49.923821 :INSIDE EXCEPTION: could not convert string to float: 
+2022-10-17 14:58:50.366853 :INSIDE EXCEPTION: could not convert string to float: 
+2022-10-17 14:59:05.215207 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 14:59:05.226209 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 15:04:05.124493 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 15:04:05.132495 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 15:16:45.112726 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 15:16:45.132728 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-17 15:17:39.734453 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-17 15:17:39.746450 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-20 17:22:49.142493 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-20 17:22:49.157589 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-20 17:24:10.667815 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-20 17:24:10.682878 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-20 17:25:27.603761 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-20 17:25:27.613840 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-20 17:27:39.333827 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-20 17:27:39.338879 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-20 17:28:28.478572 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-20 17:28:28.488754 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-20 17:28:57.959670 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-20 17:28:57.973721 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-20 17:29:19.992129 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-20 17:29:19.998653 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-20 17:29:50.744769 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-20 17:29:50.754838 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-20 17:31:34.474376 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-20 17:31:34.484841 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-21 12:25:09.566836 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-21 12:25:09.583846 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-21 12:27:56.674822 :INSIDE EXCEPTION: could not convert string to float: 
+2022-10-21 12:28:47.476244 :INSIDE EXCEPTION: could not convert string to float: 
+2022-10-21 12:30:40.524521 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-21 12:30:40.533522 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-21 12:31:26.970495 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-21 12:31:26.980494 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-21 12:31:57.961326 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-21 12:31:57.976806 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-21 12:32:38.249965 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-21 12:32:38.262972 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-21 12:33:10.873377 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-21 12:33:10.888380 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-21 12:36:01.558257 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-21 12:36:01.567258 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-21 12:42:30.252832 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-21 12:42:30.261817 invalid command name ".!toplevel.!frame11.!entry"
+2022-10-21 12:46:41.150341 :INSIDE EXCEPTION: 'NoneType' object has no attribute 'values'
+2022-10-21 12:46:41.159340 invalid command name ".!toplevel.!frame11.!entry"
